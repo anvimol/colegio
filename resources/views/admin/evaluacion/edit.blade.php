@@ -1,5 +1,5 @@
 @extends('layouts.admin')
-
+@section('title', 'Evaluaciones | Modificar')
 @section('content')
     <div class="row">
         <div class="col-md-8 col-md-offset-2">

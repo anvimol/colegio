@@ -1,5 +1,5 @@
 @extends('layouts.admin')
-
+@section('title', 'Cursos | Nuevo')
 @section('content')
 @include('errors.alerts.errorUser')
 	<h2 class="text-center text-uppercase">Nuevo Curso</h2>
